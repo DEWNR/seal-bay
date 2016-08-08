@@ -27,7 +27,7 @@
         /* Set site variables */
 
         window.SITE_OPTIONS = {
-            brandColour: "#002855",
+            brandColour: "#0090b9",
             sharedFiles: "{{ share_path }}",
             sitePrefix: "{{ site_prefix }}",
             siteFiles: "http://www.environment.sa.gov.au/files/templates/00000000-0000-0000-0000-000000000000/1db5bad3-dbd8-4ea2-93e6-659348712e07/"
